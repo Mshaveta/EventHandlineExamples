@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40751" started-at="2020-05-11T14:22:40 IST" finished-at="2020-05-11T14:23:21 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40751" started-at="2020-05-11T14:22:40 IST" finished-at="2020-05-11T14:23:21 IST">
+      <class name="EventHandling.IFrameHandling">
+        <test-method status="PASS" signature="launch()[pri:0, instance:EventHandling.IFrameHandling@3c87521]" name="launch" is-config="true" duration-ms="24093" started-at="2020-05-11T14:22:40 IST" finished-at="2020-05-11T14:23:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="multipleIFrame()[pri:0, instance:EventHandling.IFrameHandling@3c87521]" name="multipleIFrame" duration-ms="16569" started-at="2020-05-11T14:23:04 IST" finished-at="2020-05-11T14:23:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleIFrame -->
+      </class> <!-- EventHandling.IFrameHandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
